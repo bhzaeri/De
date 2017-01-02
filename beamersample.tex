@@ -36,7 +36,7 @@
 
 \title[Block Partitioning and Perfect Phylogenies] 
 {
-	Heterogenous Neighborhood Restructuring in Social Fabric based Cultural Algorithms
+	Improving Robustness in Social Fabric-based Cultural Algorithms
 }
 
 \author[]
@@ -58,7 +58,7 @@
 }
 
 \date[WABI 2006]
-{\textbf{Master Thesis Proposal}}
+{\textbf{Master Thesis Defence}}
 
 \setbeamertemplate{blocks}[rounded][shadow=true]
 % The main document
@@ -89,50 +89,59 @@
 \readarray{stdcaep}{2.347094e+09&2.101425e+05&5.691358e-02&0.000000e+00&1.425465e-02&1.518526e-06&2.797087e-05&1.667206e+04&0.000000e+00&0.000000e+00&0.000000e+00&2.864512e-02&0.000000e+00&0.000000e+00&0.000000e+00}
 
 \begin{document}
-	
-	\begin{frame}
-		\titlepage
-	\end{frame}
-	
-	\begin{frame}{Outline}
-		\tableofcontents
-	\end{frame}
-	
-	
-	\section{Introduction}
-	
-	\begin{frame}{What is Evolutionary Computation(EC)?}
-		\begin{block}{Evolutionary Computation}
-%		\fontsize{13pt}{14pt}\selectfont
+\begin{frame}
+	\titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+	\tableofcontents
+\end{frame}
+
+
+\section{Introduction}
+
+\begin{frame}{What is Evolutionary Computation(EC)?}
+	\begin{block}{Evolutionary Computation}
+	%		\fontsize{13pt}{14pt}\selectfont
 		\justifying
 		An abstraction from the concepts of biological evolution and social interactions that is used to create optimization algorithms or methodologies that are used to solve problems. \cite{eiben2003introduction} EC algorithms are natural-inspired, population-based, iterational and utilize step-by-step improvement approaches.
-		\end{block}
-		\begin{block}{}
-			\begin{itemize}
-				\item Genetic Algorithm
-				\item \alert{Cultural Algorithms}
-				\item \alert{Particle Swarm Optimization}
-				\item Ant Colony Optimization
-				%\item Biologically inspired
-				%\item Socially inspired
-			\end{itemize}
-		\end{block}
-	\end{frame}
+	\end{block}
+	\begin{block}{}
+		\begin{itemize}
+			\item Genetic Algorithm
+			\item \alert{Cultural Algorithms}
+			\item \alert{Particle Swarm Optimization}
+			\item Ant Colony Optimization
+			%\item Biologically inspired
+			%\item Socially inspired
+		\end{itemize}
+	\end{block}
+\end{frame}
 	
-	\begin{frame}{Social Fabric}
-		\begin{block}{}
-			\begin{itemize}
-				\justifying
-				\item Social Fabric was proposed by \cite{R:1}
-				\item The Social Fabric is a dynamic information skin created by the emergence of agents interactions in a social context.
-				\item The informational skins are formed by the connectivity of each agent with other agents.
-				\item These dynamic formations control the topology and type of interactions in the dynamic social sculpture. \cite{reynolds2008computing}
-				%\item The purpose of the Social Fabric metaphor is to describe group behaviors and engineered emergent phenomena.
-				\item Social interactions between individuals are modeled using an undirected graph $G(V;E)$ \cite{sterling2004aggregation}.
-				\item In this research work, The Social Fabric approach is used to improve the search behavior of evolutionary algorithms in multi-dimensional search spaces.
-			\end{itemize}
-		\end{block}
-	\end{frame}
+\begin{frame}{Robustness}
+	\begin{block}{Robustness in Evolutionary Algorithms}
+		\begin{itemize}
+				\item The ability to address a vast range of problems with particular qualities with a minimum number of adjustments.\newline
+				\item Self-organized algorithms can learn and adapt themselves to different search landscapes.\newline
+				\item Such strategies improve robustness in population-based algorithms.
+		\end{itemize}
+	\end{block}
+\end{frame}
+	
+\begin{frame}{Social Fabric}
+	\begin{block}{}
+		\begin{itemize}
+			\justifying
+			\item Social Fabric was proposed by \cite{R:1}
+			\item The Social Fabric is a dynamic information skin created by the agents interactions in a social context.
+			%\item The informational skins are formed by the connectivity of each agent with other agents.
+			\item These dynamic formations control the topology and type of interactions in the dynamic social sculpture. \cite{reynolds2008computing}
+			%\item The purpose of the Social Fabric metaphor is to describe group behaviors and engineered emergent phenomena.
+			\item Social interactions between individuals are modeled using an undirected graph $G(V;E)$ \cite{sterling2004aggregation}.
+			\item In this research work, The Social Fabric approach is used to improve the search behavior of evolutionary algorithms in multi-dimensional search spaces.
+		\end{itemize}
+	\end{block}
+\end{frame}
 	
 	\begin{frame}{Research Motivation}
 		\begin{block}{Optimization Problems}
@@ -158,7 +167,7 @@
 				\justifying
 				\item In this research work, I am going to improve Cultural Algorithms from three aspects:
 				\item Applying PSO algorithm to current Social Fabric based CAs.
-				\item Introducing a Heterogenous Neighborhood Restructuring operator to increase the level of diversity.
+				\item Introducing a Irregular Neighborhood Restructuring operator to increase the level of diversity.
 				\item Improving the robustness of the Belief Space by introducing a Confidence-based knowledge source inspired from Statistics.
 				\item For the comparison purpose, I am going to use CEC2015 benchmark optimization functions to compare my proposed approaches against already proposed algorithms.
 			\end{itemize}
