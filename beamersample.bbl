@@ -19,6 +19,12 @@ Ali, M.~Z., Suganthan, P.~N., Reynolds, R.~G., and Al-Badarneh, A.~F. (2016).
   solving real-world numerical optimization problems.
 \newblock {\em IEEE transactions on evolutionary computation}, 20(2):218--231.
 
+\bibitem[Capocci et~al., 2005]{capocci2005detecting}
+Capocci, A., Servedio, V.~D., Caldarelli, G., and Colaiori, F. (2005).
+\newblock Detecting communities in large networks.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  352(2):669--676.
+
 \bibitem[Che et~al., 2010]{che2010robust}
 Che, X., Ali, M., and Reynolds, R.~G. (2010).
 \newblock Robust evolution optimization at the edge of chaos: Commercialization
@@ -62,32 +68,10 @@ Eiben, A.~E. and Smith, J.~E. (2003).
 \newblock {\em Introduction to evolutionary computing}, volume~53.
 \newblock Springer.
 
-\bibitem[Guo et~al., 2011]{guo2011novel}
-Guo, Y.-n., Cheng, J., Cao, Y.-y., and Lin, Y. (2011).
-\newblock A novel multi-population cultural algorithm adopting knowledge
-  migration.
-\newblock {\em Soft computing}, 15(5):897--905.
-
 \bibitem[Kennedy et~al., 2001]{kennedy2001swarm}
 Kennedy, J., Kennedy, J.~F., Eberhart, R.~C., and Shi, Y. (2001).
 \newblock {\em Swarm intelligence}.
 \newblock Morgan Kaufmann.
-
-\bibitem[Kobti et~al., 2013]{kobti2013heterogeneous}
-Kobti, Z. et~al. (2013).
-\newblock Heterogeneous multi-population cultural algorithm.
-\newblock In {\em 2013 IEEE Congress on Evolutionary Computation}, pages
-  292--299. IEEE.
-
-\bibitem[Man et~al., 2012]{man2012genetic}
-Man, K.-F., Tang, K.~S., and Kwong, S. (2012).
-\newblock {\em Genetic algorithms: concepts and designs}.
-\newblock Springer Science \& Business Media.
-
-\bibitem[Papoulis and Pillai, 2002]{papoulis2002probability}
-Papoulis, A. and Pillai, S.~U. (2002).
-\newblock {\em Probability, random variables, and stochastic processes}.
-\newblock Tata McGraw-Hill Education.
 
 \bibitem[Reynolds, 1994]{reynolds1994introduction}
 Reynolds, R.~G. (1994).
@@ -107,6 +91,12 @@ Reynolds, R.~G., Che, X., and Ali, M. (2010).
   optimization problem solving with cultural algorithms.
 \newblock {\em International Journal of Intelligent Computing and Cybernetics},
   3(4):561--592.
+
+\bibitem[Shi et~al., 2009]{shi2009pso}
+Shi, Z., Liu, Y., and Liang, J. (2009).
+\newblock Pso-based community detection in complex networks.
+\newblock In {\em Knowledge Acquisition and Modeling, 2009. KAM'09. Second
+  International Symposium on}, volume~3, pages 114--119. IEEE.
 
 \bibitem[Sterling, 2004]{sterling2004aggregation}
 Sterling, S.~E. (2004).
