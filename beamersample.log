@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.16)  22 JAN 2017 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.16)  23 JAN 2017 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1675,7 +1675,7 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 File: images/heterogenous.jpg Graphic file (type jpg)
 
 <use images/heterogenous.jpg>
-Package pdftex.def Info: images/heterogenous.jpg used on input line 563.
+Package pdftex.def Info: images/heterogenous.jpg used on input line 562.
 (pdftex.def)             Requested size: 260.17401pt x 93.95172pt.
 
 Overfull \hbox (78.35474pt too wide) has occurred while \output is active
@@ -1685,7 +1685,7 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 [19
 
  <./images/heterogenous.jpg>]
-Overfull \vbox (25.28734pt too high) detected at line 585
+Overfull \vbox (25.28734pt too high) detected at line 584
  []
 
 
@@ -1704,10 +1704,10 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 650.
+Package hyperref Warning: Ignoring empty anchor on input line 649.
 
 
-Overfull \hbox (27.65324pt too wide) in paragraph at lines 650--650
+Overfull \hbox (27.65324pt too wide) in paragraph at lines 649--649
  [] 
  []
 
@@ -1720,10 +1720,10 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 687.
+Package hyperref Warning: Ignoring empty anchor on input line 686.
 
 
-Overfull \hbox (27.65016pt too wide) in paragraph at lines 687--687
+Overfull \hbox (27.65016pt too wide) in paragraph at lines 686--686
  [] 
  []
 
@@ -1738,10 +1738,10 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 File: images/percent_I.jpeg Graphic file (type jpg)
 
 <use images/percent_I.jpeg>
-Package pdftex.def Info: images/percent_I.jpeg used on input line 696.
+Package pdftex.def Info: images/percent_I.jpeg used on input line 695.
 (pdftex.def)             Requested size: 269.32094pt x 185.80556pt.
 
-Overfull \vbox (11.23157pt too high) detected at line 696
+Overfull \vbox (11.23157pt too high) detected at line 695
  []
 
 
@@ -1756,10 +1756,10 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 File: images/percent_C.jpeg Graphic file (type jpg)
 
 <use images/percent_C.jpeg>
-Package pdftex.def Info: images/percent_C.jpeg used on input line 730.
+Package pdftex.def Info: images/percent_C.jpeg used on input line 729.
 (pdftex.def)             Requested size: 269.32094pt x 185.80556pt.
 
-Overfull \vbox (11.23157pt too high) detected at line 730
+Overfull \vbox (11.23157pt too high) detected at line 729
  []
 
 
@@ -1774,15 +1774,15 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 File: images/comm_detect.png Graphic file (type png)
 
 <use images/comm_detect.png>
-Package pdftex.def Info: images/comm_detect.png used on input line 740.
+Package pdftex.def Info: images/comm_detect.png used on input line 739.
 (pdftex.def)             Requested size: 315.5026pt x 178.68408pt.
 
-Overfull \hbox (8.21272pt too wide) in paragraph at lines 740--740
+Overfull \hbox (8.21272pt too wide) in paragraph at lines 739--739
  [] 
  []
 
 
-Overfull \vbox (17.7101pt too high) detected at line 740
+Overfull \vbox (17.7101pt too high) detected at line 739
  []
 
 
@@ -1799,19 +1799,39 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 
 [27
 
-] (./beamersample.bbl)
+] <images/Particle1.jpg, id=540, 542.025pt x 78.2925pt>
+File: images/Particle1.jpg Graphic file (type jpg)
+
+<use images/Particle1.jpg>
+Package pdftex.def Info: images/Particle1.jpg used on input line 772.
+(pdftex.def)             Requested size: 271.01183pt x 39.14615pt.
+
 Overfull \hbox (78.35474pt too wide) has occurred while \output is active
   [] [] [] [] [] [] [] [] [] []  
  []
 
 [28
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
+ <./images/Particle1.jpg>]
 Overfull \hbox (78.35474pt too wide) has occurred while \output is active
   [] [] [] [] [] [] [] [] [] []  
  []
 
 [29
+
+] (./beamersample.bbl)
+Overfull \hbox (78.35474pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [] [] []  
+ []
+
+[30
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
+Overfull \hbox (78.35474pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [] [] []  
+ []
+
+[31
 
 
 ]
@@ -1819,7 +1839,7 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
   [] [] [] [] [] [] [] [] [] []  
  []
 
-[30
+[32
 
 
 ]
@@ -1832,40 +1852,41 @@ Overfull \hbox (78.35474pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `beamersample.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 763.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 763.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 799.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 799.
  (./beamersample.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 763.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 763.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 799.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 799.
 Package rerunfilecheck Info: File `beamersample.out' has not changed.
 (rerunfilecheck)             Checksum: 31C96D4ED224F929C67B5368A5DCB1B4;448.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 763.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 799.
  ) 
 Here is how much of TeX's memory you used:
- 22585 strings out of 493029
- 440227 string characters out of 6136234
- 593181 words of memory out of 5000000
- 25471 multiletter control sequences out of 15000+600000
+ 22600 strings out of 493029
+ 440435 string characters out of 6136234
+ 593666 words of memory out of 5000000
+ 25480 multiletter control sequences out of 15000+600000
  48743 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,60p,392b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
-uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on beamersample.pdf (30 pages, 1213690 bytes).
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on beamersample.pdf (32 pages, 1264143 bytes).
 PDF statistics:
- 642 PDF objects out of 1000 (max. 8388607)
- 558 compressed objects within 6 object streams
- 96 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 PDF objects out of 1000 (max. 8388607)
+ 590 compressed objects within 6 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
